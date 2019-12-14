@@ -1,0 +1,22 @@
+{
+  "name": "pureform",
+  "version": "0.0.0",
+  "description": "Form component based on web components specification",
+  "main": "index.js",
+  "scripts": {
+    "start": "owc-dev-server -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "Chaitanya Chunduri",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "owc-dev-server": "^1.0.1"
+  }
+}
