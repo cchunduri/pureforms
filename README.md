@@ -9,7 +9,8 @@ this component can be used with any JS frameworks such as angular or react or vu
 ## Usage
 Below sample html page will illustrate the usage of pure form component
 
-`<!doctype html>
+```
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,4 +24,4 @@ Below sample html page will illustrate the usage of pure form component
 <script src="src/components/pureform/pureform.js"></script>
 </body>
 </html>
-`
+```
