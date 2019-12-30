@@ -8,7 +8,15 @@
     <title>Pure Form Demo</title>
 </head>
 <body>
-    <pure-form></pure-form>
-<script src="src/components/pureform/pureform.js"></script>
+    <pure-form form-body = "{
+        {
+            type: email
+        }
+    }">
+
+    </pure-form>
+
+    <script src="src/components/pureform/pureform.js"></script>
+    <script src="src/components/email/email.js" type="module"></script>
 </body>
 </html>
